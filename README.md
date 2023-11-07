@@ -45,7 +45,7 @@ The chapters/papers to be read for each meetup will be announced on the mailing 
 Each meetup follows a similar structure:
 
 1. **Introduction** (5 minutes): The host introduces the topic and the resource to be discussed.
-2. **Discussion** (60 minutes with a 10-minute break at 30): The host leads the discussion by asking questions and encouraging everyone to participate. Mods will help to moderate the discussion and make sure everyone has a chance to speak.
+2. **Discussion** (60 minutes with a 5-minute break at 30): The host leads the discussion by asking questions and encouraging everyone to participate. Mods will help to moderate the discussion and make sure everyone has a chance to speak.
 3. **Conclusion** (5 minutes): The host summarizes the discussion and concludes the meetup.
 
 ### After the meetup
