@@ -33,10 +33,11 @@ Distributed priority queues are still not highly explored in the academic enviro
 - ⁠QPID: A Distributed Priority Queue with Item Locality
 
 Links:
-Timestone: [https://netflixtechblog.com/timestone-netflixs-high-throughput-low-latency-priority-queueing-system-with-built-in-support-1abf249ba95f](https://netflixtechblog.com/timestone-netflixs-high-throughput-low-latency-priority-queueing-system-with-built-in-support-1abf249ba95f)
-B4: [https://research.google/pubs/b4-and-after-managing-hierarchy-partitioning-and-asymmetry-for-availability-and-scale-in-googles-software-defined-wan/](https://research.google/pubs/b4-and-after-managing-hierarchy-partitioning-and-asymmetry-for-availability-and-scale-in-googles-software-defined-wan/)
-FOQS: [https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue/](https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue/)
-QPID: [https://ieeexplore.ieee.org/document/4725152](https://ieeexplore.ieee.org/document/4725152)
+
+- Timestone: [https://netflixtechblog.com/timestone-netflixs-high-throughput-low-latency-priority-queueing-system-with-built-in-support-1abf249ba95f](https://netflixtechblog.com/timestone-netflixs-high-throughput-low-latency-priority-queueing-system-with-built-in-support-1abf249ba95f)
+- B4: [https://research.google/pubs/b4-and-after-managing-hierarchy-partitioning-and-asymmetry-for-availability-and-scale-in-googles-software-defined-wan/](https://research.google/pubs/b4-and-after-managing-hierarchy-partitioning-and-asymmetry-for-availability-and-scale-in-googles-software-defined-wan/)
+- FOQS: [https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue/](https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue/)
+- QPID: [https://ieeexplore.ieee.org/document/4725152](https://ieeexplore.ieee.org/document/4725152)
 </details>
 
 ## Episode 2: Distributed Key-Value Stores
